@@ -1,2 +1,7 @@
 # shannon_iv
 FORTH CYBORG FOR LIVING INSIDE THE BLOCKCHAIN KUBERNETES DAEMON H@LLDIVER
+
+; expected output:
+; *********
+; ***   ***
+; * *   * *
